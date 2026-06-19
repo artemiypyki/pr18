@@ -1,4 +1,4 @@
-package com.example.pr18.ui.theme
+package com.example.pr18_kokoshnikov.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
