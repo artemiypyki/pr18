@@ -1,4 +1,4 @@
-package com.example.pr18;
+package com.example.pr18_kokoshnikov;
 
 import android.os.Bundle;
 import android.view.View;
