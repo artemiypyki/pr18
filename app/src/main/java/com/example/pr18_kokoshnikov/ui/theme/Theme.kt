@@ -1,4 +1,4 @@
-package com.example.pr18.ui.theme
+package com.example.pr18_kokoshnikov.ui.theme
 
 import android.app.Activity
 import android.os.Build
